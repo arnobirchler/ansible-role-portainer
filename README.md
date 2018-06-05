@@ -1,4 +1,4 @@
-Ansible Role | Template
+Ansible Role | Portainer
 =========
 [![Build Status](https://travis-ci.org/arnobirchler/ansible-role-portainer.svg?branch=master)](https://travis-ci.org/arnobirchler/ansible-role-portainer)
 
@@ -12,7 +12,10 @@ Docker
 Role Variables
 --------------
 
-No variables needed.
+```
+- user: scott
+- sudoer: john
+```
 
 Dependencies
 ------------
