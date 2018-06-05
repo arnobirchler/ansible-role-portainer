@@ -1,13 +1,13 @@
 Ansible Role | Template
 =========
-[![Build Status](https://travis-ci.org/arnobirchler/ansible-role-template.svg?branch=master)](https://travis-ci.org/arnobirchler/ansible-role-template)
+[![Build Status](https://travis-ci.org/arnobirchler/ansible-role-portainer.svg?branch=master)](https://travis-ci.org/arnobirchler/ansible-role-portainer)
 
-Empty role with travis-ci configuration
+Role that install portainer with travis-ci configuration
 
 Requirements
 ------------
 
-No requierements needed
+Docker
 
 Role Variables
 --------------
